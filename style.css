@@ -29,3 +29,12 @@ p {
 
 em strong{
   color:#369750
+}
+
+.itens{
+  front=style;italic
+}
+.beneficios{
+  background:#D94EBB
+    padding:20px
+}
