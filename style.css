@@ -1,12 +1,31 @@
-body{
+body {
   
 }
-#banner{
+#banner {
   widht:100%
     
 }
 
-.principal{
-  background#cor
+.principal {
+  background##D94EBB
   padding: 30px;
 }
+
+.titulo-principal {
+  padding-left:20px;
+}
+
+.titulo-centralizado {
+  text-align;center
+}
+
+p {
+  text-align;center;
+}
+
+#missao{
+  font-size;20px
+}
+
+em strong{
+  color:#369750
