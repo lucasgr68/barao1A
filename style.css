@@ -53,7 +53,7 @@ ul {
 }
 
 header {
-   background: #F7FF4B ;
+   background: #D94EBB ;
    padding: 20px 0;
 }
 
@@ -81,7 +81,7 @@ nav li {
 
 nav a {
    text-transform: uppercase;
-   color: #cccccc;
+   color: #F7FF4B ;
    font-weight: bold;
    font-size: 22px;
    text-decoration: none;
